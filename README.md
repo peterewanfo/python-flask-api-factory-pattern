@@ -1,4 +1,4 @@
-# python-flask-factory-patern
+# python-flask-factory-pattern
 # This pattern also uses flask-method-view pattern in combination.
 
 This should python flask developers kickstart any project. It is also structured with template files and folders to accommodate celery.
